@@ -12,6 +12,10 @@ Steps of identifying the number:
 
 #### Result
 
+![Screenshot 2019-06-04 at 10 10 41 PM](https://user-images.githubusercontent.com/29504448/58886061-da6ab500-8715-11e9-9df5-f64a64301f0b.png)
+
+![Screenshot 2019-06-04 at 10 09 56 PM](https://user-images.githubusercontent.com/29504448/58886115-f0787580-8715-11e9-94da-5ca3f85490c6.png)
+
 
 
 #### Reference: 

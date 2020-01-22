@@ -1,4 +1,4 @@
 imutils
 numpy
-cv2
+opencv-python-headless
 matplotlib.pyplot
